@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">randomizer</string>
+    <string name="app_name">Randomizer</string>
+    <string name="generate_button">Generate</string>
+    <string name="result_textview">Result:</string>
+    <string name="back_button">Back</string>
+    <string name="previous_result">Previous result:</string>
 </resources>
